@@ -1,3 +1,14 @@
+# E-Commerce Web Platform
+
+A full-stack e-commerce application built with Laravel, Vue.js, and Tailwind CSS. 
+
+## Prerequisites
+Before you begin, ensure you have the following installed on your machine:
+* [PHP](https://www.php.net/) (v8.1 or higher)
+* [Composer](https://getcomposer.org/)
+* [Node.js & npm](https://nodejs.org/)
+* A local database (MySQL, PostgreSQL, or SQLite)
+  
 ## Installation & Setup
 
 Follow these steps to get the project running on your local machine:
@@ -6,7 +17,7 @@ Follow these steps to get the project running on your local machine:
 
 ```bash
 git clone https://github.com/Hying9503/ecommerceWeb.git
-cd ecommerceWeb
+cd ecommerce-web
 ```
 
 ### 2. Install PHP dependencies
