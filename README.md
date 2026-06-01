@@ -34,7 +34,6 @@ Copy the example environment file and create your own:
 \`\`\`bash
 cp .env.example .env
 \`\`\`
-*Note: If you are using SQLite (as configured by default in newer Laravel versions), you can skip database configuration. Otherwise, open `.env` and update your `DB_` variables to match your local setup.*
 
 **5. Generate the application key**
 \`\`\`bash
